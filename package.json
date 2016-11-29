@@ -1,0 +1,22 @@
+{
+  "name": "wordcount",
+  "version": "1.0.0",
+  "description": "counting number of times a string appears",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbanky10/wordcount.git"
+  },
+  "author": "Oluwabanke Fagbemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbanky10/wordcount/issues"
+  },
+  "homepage": "https://github.com/dbanky10/wordcount#readme"
+}
